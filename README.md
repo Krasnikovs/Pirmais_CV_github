@@ -10,3 +10,18 @@ Es esmu mācijies vairākas programmēšanas valodas, kā piemēram:
 > Gāju krievu bērnudārzā ar nosaukumu: “Pērlīte”. Kad pabeidzu bērnudārzu pārcēlos uz Mežciemu Sergeja Eizenšteina ielu, lai mācītos Mežciema pamatskolā.
 
 Citāts no progrmmēšanas projekta, kas saucās 'Gustavs_porfolio'.
+
+Es netikai programmēšanas valodas mācos, bet arī sarun valodas:
+* Progammēšanas valodas:
+    * Vel mācos:
+        1. HTML
+        2. JavaScript
+        3. Python 3.9.0
+* Sarun valodas:
+    * Es zinu:
+        1. Latviešū
+        2. Krievu
+        3. Angļu
+    * Vel mācos:
+        1. Vācu
+        2. Japāņu
