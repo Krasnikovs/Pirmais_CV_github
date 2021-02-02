@@ -30,3 +30,5 @@ Es netikai programmēšanas valodas mācos, bet arī sarun valodas:
 | :--- | ---: |
 | Ar skrituļ dēli braukāšanās | Vienreiz nedēļā (ja piemērots laiks) |
 | Personīgu intrešu macīšanās | Katrudienu (vismaz atkārtošana) |
+
+! [Mana personīga bilde.] (/This PC/Downloads/948fadca867aacfad037c83e52b32be06ce917ad511a592c37eb4122ade7e2a2.jpg)
