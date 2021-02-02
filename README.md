@@ -25,3 +25,8 @@ Es netikai programmēšanas valodas mācos, bet arī sarun valodas:
     * Vel mācos:
         1. Vācu
         2. Japāņu
+
+| Brīvā laika aktivitātes | Aktivitāšu biežums |
+| :--- | ---: |
+| Ar skrituļ dēli braukāšanās | Vienreiz nedēļā (ja piemērots laiks) |
+| Personīgu intrešu macīšanās | Katrudienu (vismaz atkārtošana) |
